@@ -2,8 +2,11 @@ Pocket AI is a lightweight, text-only AI chatbot powered by Gemini Flash 1.0. It
 
 Features:
 -> Chat with Gemini Flash 1.0 (fast & smart)
+
 -> Temporarily remembers your conversation
+
 -> Simple and user-friendly Streamlit interface
+
 -> Logs input and response to a local JSON file
 
 Installation:
